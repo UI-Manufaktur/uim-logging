@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-logging
+uim-logging.so
+uim-logging.dylib
+uim-logging.dll
+uim-logging.a
+uim-logging.lib
+uim-logging-test-*
+*.exe
+*.o
+*.obj
+*.lst
